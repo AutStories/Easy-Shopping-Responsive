@@ -105,11 +105,11 @@ header{
         height: auto;
         width: 100%;
         position: static;
-        padding: 40px;
+        padding: 5.997vh 10.666666666666666vw;
     }
     img{
         position: static;
-        margin-top: 47px;
+        margin-top: 7.046vh;
         width: 90%;
     }
 
@@ -118,20 +118,20 @@ header{
     }
 
     h1{
-        font-size: 36px;
-        line-height: 52px;
+        font-size: 9.6vw;
+        line-height: 7.796vh;
         width: auto;
-        margin: 58px 50px 0px 50px;
+        margin: 8.696vh 13.333333333333334vw 0px 13.333333333333334vw;
         text-align: center;
         height: auto;
     }
 
     p{
-        margin: 15px 40px;
+        margin: 2.249vh 10.666666666666666vw;
         width: auto;
         text-align: center;
-        line-height: 24px;
-        font-size: 14px;
+        line-height: 3.598vh;
+        font-size: 3.7333333333333334vw;
         height: auto;
     }
 
